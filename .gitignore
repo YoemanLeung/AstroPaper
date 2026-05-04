@@ -1,0 +1,8 @@
+.DS_Store
+.claude/
+.codex/
+doc/research_profile.local.md
+legacy/
+*/pdf/
+doc/research_profile.md
+scripts/sync_public_mirror.sh
